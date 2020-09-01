@@ -187,13 +187,17 @@ main{
 
 .session,
 .period{
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 
 .session h2{
     border-bottom: 1px solid #ddd;
 }
 
+.session h4{
+
+    font-size: 14px;
+}
 
 
 
