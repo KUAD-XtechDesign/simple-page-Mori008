@@ -48,11 +48,36 @@ ul,ol{
     margin-bottom: 10px;
 }
 
-.youtube {
+.flex-youtube {
     display: flex;
     flex-wrap: wrap;
     vertical-align:top;
+}
 
+.flex-youtube {
+  flex-direction: row;
+}
+
+
+
+
+
+.main_karu{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.sub_karu{
+    display:inline-block;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.sub_karu img{
+    display:block;
+}
+.main_karu img{
+    display: block;
+    margin: 0 0;
+    border-radius: 10px;
 }
 
 
